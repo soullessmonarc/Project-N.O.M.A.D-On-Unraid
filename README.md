@@ -1,4 +1,4 @@
-Project N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+Project N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. ( i have linked the OG Project N.O.M.A.D Git site)
 I have edited the Docker compose file to work on uraid using the docker compose plug in i have also used AI to help create a step by step (so i blame the AI if there is something wrong with the document XD)
 This is not supported mode of install (by myself or Crosstalk-Solutions/project-nomad Team) as such some components do not currently work (Disk collector and AI)
 I will look to try and get the AI function to work later down the line but i do not make any promises 
